@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2315b0cf&lines=What's+up!+I'm+Ily455)](https://git.io/typing-svg)
+
 #I'm a cybersecurity student at ENSAO.
 
 #Currently working on an EDR project.
@@ -9,3 +11,5 @@
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Ilyass%20Elannid&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filyass-elannid)](https://www.linkedin.com/in/ilyass-elannid/)
+
+Or via e-mail on : ielannid@gmail.com
