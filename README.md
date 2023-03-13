@@ -6,15 +6,10 @@
 
 #Looking for a summer internship.
 
-![https://tryhackme-badges.s3.amazonaws.com/Ily455.png](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)
-
-
-![HTB stats](https://www.hackthebox.eu/badge/image/815745)
-
-<img src="[image name](https://www.hackthebox.eu/badge/image/815745)" alt= “” width="value" height="value">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ily455.png" alt="TryHackMe" height="60">  <img src="https://www.hackthebox.eu/badge/image/815745" alt= “HackTheBox” height="60">
 
 ## Contact Me 📫
-
+LinkedIn :
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Ilyass%20Elannid&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filyass-elannid)](https://www.linkedin.com/in/ilyass-elannid/)
 
-Or via e-mail on : ielannid@gmail.com
+E-mail : ielannid@gmail.com
