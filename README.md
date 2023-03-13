@@ -1,7 +1,7 @@
 I'm a cybersecurity student at ENSAO.
 Currently working on an EDR project.
 Looking for a summer internship.
-![tryhackme stats](<script src="https://tryhackme.com/badge/742046"></script>)
+[![tryhackme stats](<script src="https://tryhackme.com/badge/742046"></script>)
 
 ## Contact Me 📫
 
