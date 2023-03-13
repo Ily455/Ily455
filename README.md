@@ -1,6 +1,9 @@
-I'm a cybersecurity student at ENSAO.\n
-Currently working on an EDR project.\n
-Looking for a summer internship.\n
+I'm a cybersecurity student at ENSAO.
+
+Currently working on an EDR project.
+
+Looking for a summer internship.
+
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)
 
 ## Contact Me 📫
