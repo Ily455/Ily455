@@ -1,7 +1,7 @@
-I'm a cybersecurity student at ENSAO.
-Currently working on an EDR project.
-Looking for a summer internship.
-![tryhackme stats](https://raw.githubusercontent.com/Ily455/Ily455/master/assets/thm_propic.png)
+I'm a cybersecurity student at ENSAO.\n
+Currently working on an EDR project.\n
+Looking for a summer internship.\n
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)
 
 ## Contact Me 📫
 
