@@ -6,7 +6,12 @@
 
 #Looking for a summer internship.
 
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)      ![HTB stats](https://www.hackthebox.eu/badge/image/815745 width="600")
+[https://tryhackme-badges.s3.amazonaws.com/Ily455.png](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)
+
+
+![HTB stats](https://www.hackthebox.eu/badge/image/815745)
+
+<img src="[image name](https://www.hackthebox.eu/badge/image/815745)" alt= “” width="value" height="value">
 
 ## Contact Me 📫
 
