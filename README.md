@@ -1,8 +1,8 @@
-I'm a cybersecurity student at ENSAO.
+#I'm a cybersecurity student at ENSAO.
 
-Currently working on an EDR project.
+#Currently working on an EDR project.
 
-Looking for a summer internship.
+#Looking for a summer internship.
 
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ily455.png)
 
