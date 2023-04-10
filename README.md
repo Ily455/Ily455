@@ -2,8 +2,6 @@
 
 #I'm a cybersecurity student at ENSAO.
 
-#Currently working on an EDR project.
-
 #Looking for a summer internship.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ily455.png" alt="TryHackMe" height="60">  <img src="https://www.hackthebox.eu/badge/image/815745" alt= “HackTheBox” height="60">
