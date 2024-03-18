@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%2315b0cf&lines=Hey+there!+I'm+Ily455)](https://git.io/typing-svg)-->
 
-### - I'm a cybersecurity student at ENSAO.
+<!--### - I'm a cybersecurity student at ENSAO.-->
 
 <!--### - Looking for a summer internship.-->
 
