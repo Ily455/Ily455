@@ -10,4 +10,4 @@
 - LinkedIn :
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Ilyass%20Elannid&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filyass-elannid)](https://www.linkedin.com/in/ilyass-elannid/)
 
-- E-mail : ielannid@gmail.com
+- E-mail : ilyass.elannid@gmail.com
